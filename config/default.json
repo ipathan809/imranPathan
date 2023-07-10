@@ -1,0 +1,7 @@
+{
+    "PORT": 9595,
+    "host"     : "localhost",
+    "user"     : "root",
+    "password" : "manager",
+    "database" : "clood"
+}
